@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Vasyl! 👋
 
-<!--
-**perehinets/perehinets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I'm a Python developer focused on building backend applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, learning new technologies, and building practical projects.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+
+**Backend**
+- Django
+- FastAPI
+- REST API
+
+**Databases & Tools**
+- PostgreSQL
+- Redis
+- Git & GitHub
+
+**Currently Learning**
+- Machine Learning
+- Scikit-learn
+
+### 🚀 Featured Projects
+
+**[Hiking Tracker](https://github.com/perehinets/hiking-tracker)**
+
+A Django web application for creating and managing hiking events.
+
+Key features:
+- User authentication
+- Create, update and delete hikes
+- Join and leave hiking events
+- Hiker capacity management
+- Pagination and filtering
+
+### 📚 Currently Working On
+
+- Improving my Python and Django skills
+- Building backend applications
+- Learning Machine Learning with Scikit-learn
+- Developing practical projects for my portfolio
+
+### 📫 Connect With Me
+
+- GitHub: [@perehinets](https://github.com/perehinets)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+
