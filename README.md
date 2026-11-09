@@ -48,5 +48,5 @@ Key features:
 ### 📫 Connect With Me
 
 - GitHub: [@perehinets](https://github.com/perehinets)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vasyl-perehinets/)
 
